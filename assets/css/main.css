@@ -1,8 +1,5 @@
 /*
- * Evento -  Event html  Template
- * Build Date: jan 2018
- * Author: colorlib
- * Copyright (C) 2018 colorlib
+ * Author: Mani sai
  */
 /* ------------------------------------- */
 /* TABLE OF CONTENTS
@@ -49,7 +46,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 42px;
+  font-size: 33px;
   margin-bottom: 25px;
 }
 
@@ -2032,7 +2029,7 @@ Cover
 .cover_slider .cover_item .slider_content .slider-content-inner .cover-xl-text {
   opacity: 0;
   text-transform: uppercase;
-  font-size: 90px;
+  font-size: 60px;
   font-weight: 900;
   line-height: 1.1;
   color: #f50136;
@@ -2276,7 +2273,7 @@ Cover
     font-size: 18px;
   }
   .cover_slider .cover_item .slider_content .slider-content-inner .cover-xl-text {
-    font-size: 46px;
+    font-size: 26px;
   }
   .cover_slider .cover_item .slider_content .slider-content-inner .cover-date {
     font-size: 14px;
